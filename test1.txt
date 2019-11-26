@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E239-77A4
+
+ Directory of C:\Users\Smart techies\Desktop\Uday project
+
+26-11-2019  15:01    <DIR>          .
+26-11-2019  15:01    <DIR>          ..
+26-11-2019  15:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  65,874,784,256 bytes free
