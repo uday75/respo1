@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E239-77A4
+
+ Directory of C:\Users\Smart techies\Desktop\Uday project
+
+26-11-2019  16:15    <DIR>          .
+26-11-2019  16:15    <DIR>          ..
+26-11-2019  15:24                 0 New Microsoft PowerPoint Presentation.pptx
+26-11-2019  16:00               377 test1.txt
+26-11-2019  16:15                 0 test2.txt
+               3 File(s)            377 bytes
+               2 Dir(s)  66,323,300,352 bytes free
